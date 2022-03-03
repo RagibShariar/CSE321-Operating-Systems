@@ -1,0 +1,19 @@
+1.(a)	~$ cd Desktop
+   	~/Desktop$ touch excalibur.txt
+(b)	~/Desktop$ chmod u=rwx,g=rx,o=x excalibur.txt
+(c)	~/Desktop$ mkdir mydirectory
+(d)	~/Desktop$ cp excalibur.txt mydirectory
+(e)	~/Desktop$ rm excalibur.txt
+
+2.	~/Desktop$ rm -r home/kali/Desktop/mydirectory/*
+
+3.	~/Desktop/mydirectory$ ls -l *.txt
+
+4.	~/Desktop$ grep -r "my name is Ragib" /home/kali/Desktop/
+
+5.	~/Desktop$ head -18 excalibur.txt | tail +12
+
+6.	~/Desktop$ ls -l
+
+
+
